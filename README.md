@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-my first github :)
+Adding some random text to this file, so I can see the changes.
+Yep, EVEN MOAR TEXT.
